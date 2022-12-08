@@ -1,0 +1,1 @@
+I won't be submitting any programs here due to the frequency in which they get updated and the licenses on some of them. I will update this soon with a large bible/tutorial informing about internet circumvention.
