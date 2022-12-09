@@ -31,4 +31,4 @@ Some schools may use more advanced censorship software than others. Try changing
 Software such as Shadowsocks or v2ray might need to be used if a regular VPN fails to work.
 This software is much more advanced then VPNs and certainly isn't as easy as downloading a VPN, and clicking connect. It requires basic knowledge of Linux to make these servers yourself. This type of software is constantly changing, so do some research yourself and work out what would suit you better.
 
-DISCLAIMER: ALL CONTENT IN THE REPOSITORY DOES NOT BELONG TO ME, NOR HAVE I CONTRIBUTED TO IT IN ANYWAY. PLEASE FOLLOW THE RESPECTIVE LICENSE OF THE ORIGINAL CREATOR. ANY INFORMATION PROVIDED IS ONLY INTENDED FOR EDUCATIONAL PURPOSES AND I TAKE NO RESPONSEABLITY FOR THE CONTENT OR IT USE CASES.
+DISCLAIMER: SOME CONTENT IN THE REPOSITORY DOES NOT BELONG TO ME, NOR HAVE I CONTRIBUTED TO IT IN ANYWAY. PLEASE FOLLOW THE RESPECTIVE LICENSE OF THE ORIGINAL CREATOR. ANY INFORMATION PROVIDED IS ONLY INTENDED FOR EDUCATIONAL PURPOSES AND I TAKE NO RESPONSEABLITY FOR THE CONTENT OR IT USE CASES.
