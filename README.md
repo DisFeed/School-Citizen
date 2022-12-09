@@ -11,7 +11,7 @@ Just before I start I would like to say this. Throughout this guide I intend on 
 
 To overcome this, try some software called a VPN. A VPN is a tool that helps you use the internet safely and securely. It does this by making it look like you're accessing the internet from a different location, so no one can see what you're doing. It's like a secret tunnel that only you can use to get on the internet. This can be helpful if you're at school and there are websites that you're not allowed to visit. Using a VPN can help you access those websites without anyone knowing. 
 
-While a VPN can help you use the internet safely and securely, it's important to understand that it's not 100% foolproof. There are always ways that someone with enough knowledge and resources can try to track what you're doing on the internet, even if you're using a VPN. That's why it's important to be careful about what you do online and to always use the internet responsibly.
+While a VPN can help you use the internet safely and securely, it's important to understand that it's not 100% foolproof. There are always ways that someone with enough knowledge and resources can try to track what you're doing on the internet, even if you're using a VPN. That's why it's important to be careful about what you do online.
 
 Recommended VPNs:
 
