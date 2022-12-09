@@ -2,8 +2,7 @@
 This intends to be a massive repository of everything that I use in school. This spans from trolling scripts for online apps, to full internet circumvention guides for the people who want to use their school internet without the worry of being blocked from certain websites or their IT department spying on them.
 
 
-## Internet Censorship Circumvention.
-## My guide to it.
+## My guide to internet censorship circumvention.
 
 Just before I start I would like to say this. Throughout this guide I intend on being 100% factual, however as is inevitable, we make mistakes. I cannot guarantee everything in this guide is fully accurate, nor can I guarantee that it is fully up to date.
 
