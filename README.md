@@ -19,9 +19,11 @@ Recommended VPNs:
 
 Proton VPN ✅ | Free option available - Encryption 
 
-Cyberghost       |  Free option available - Encryption
+Cyberghost | Free option available - Encryption
 
 Express VPN ✅| Paid - Encryption
+
+IVPN | Paid - Encryption
 
 ### Help. I tried a VPN, it didn't work.
 
